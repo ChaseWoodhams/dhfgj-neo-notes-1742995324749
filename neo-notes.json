@@ -1,0 +1,21 @@
+{
+  "notes": [
+    {
+      "id": "9c5b3728-0a34-4565-a537-2ff21a607df6",
+      "title": "test",
+      "content": "",
+      "createdAt": "2025-03-25T15:01:13.684Z",
+      "updatedAt": "2025-03-25T16:13:52.454Z",
+      "folderId": null
+    }
+  ],
+  "folders": [
+    {
+      "id": "9baa41dd-3fcf-4bec-99ab-aa6c56ea54f2",
+      "name": "New Folder",
+      "createdAt": "2025-03-25T14:52:01.239Z",
+      "updatedAt": "2025-03-25T14:52:01.239Z"
+    }
+  ],
+  "syncedAt": "2025-03-26T13:22:11.220Z"
+}
